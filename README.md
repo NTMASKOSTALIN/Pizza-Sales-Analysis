@@ -42,3 +42,19 @@ Dashboard:
 <img width="1917" height="867" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/75074910-a12e-4979-b794-55a23429fab8" />
 
 Insights:
+Strong Sales Volume: A total of 21,350 orders generated $817,860 in revenue, with an average of 138 pizzas sold per day demonstrates data sufficiency for meaningful trend analysis.
+
+Pricing & Product Mix: The Greek Pizza ($35.95) is the highest-priced item, yet the Classic Deluxe Pizza dominates in both order volume and revenue share, highlighting the importance of product mix over price.
+
+Category Insights: The Classic category leads both in quantity ordered and revenue contribution, making it the most reliable category for business growth.
+
+Time-Based Trends: Sales peak at lunch (12 PM) and dinner (6 PM), with a noticeable dip between 2–3 PM, suggesting opportunities for time-based promotions during off-peak hours.
+
+Revenue Drivers: While the Classic Deluxe is the top-seller, the Thai Chicken Pizza contributes the highest revenue, showing that premium pizzas drive disproportionate revenue impact.
+
+Seasonality & Growth: Revenue remains stable throughout the year, with a small dip in October, suggesting overall resilience and potential for targeted seasonal marketing.
+
+Conclusion:
+This project demonstrates the complete data analytics lifecycle — from cleaning and validating raw data across multiple relational tables to deriving meaningful KPIs and building a dashboard that tells a clear business story. By ensuring data integrity (no nulls, no duplicates, referential consistency), performing SQL-based exploration and analysis, and translating results into actionable insights, the project highlights both technical rigor and business impact.
+
+The findings not only answer performance questions (revenue, orders, product mix, seasonality) but also provide strategic recommendations such as focusing on high-margin pizzas, aligning staff with peak hours, and leveraging off-peak promotions. This reflects the ability to go beyond queries and visualizations to deliver data-driven decision support
