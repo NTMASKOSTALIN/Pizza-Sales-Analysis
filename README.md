@@ -2,12 +2,16 @@ Objectives:
 The objective of this project is to perform an end-to-end analysis of pizza sales data (21k rows across 4 relational tables) to ensure data accuracy, integrity, and consistency through SQL-based cleaning and validation, and to derive key performance indicators (KPIs) that provide actionable business insights. The analysis aims to answer critical questions such as total revenue, order patterns, product mix performance, and time-based sales trends, while also identifying high-performing and underperforming pizzas. The ultimate goal is to transform raw sales data into a decision-support tool that helps optimize promotions, staffing schedules, and inventory planning.
 
 Dataset:
-
+Pizzas- <https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizzas.csv>
+pizza_types- <https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizza_types.csv>
+Orders- <https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/orders.csv>
+Order_details- <https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/order_details.csv>
+Google sheets Dashboard- <https://docs.google.com/spreadsheets/d/1m5cTXE2Eiv_70_k4PXVUIKuuF_pWfhD9B9u84NWrF10/edit?gid=925059109#gid=925059109>
 
 Questions(KPI):
 1. Retrieve the total number of orders placed.
-2. 2. Calculate the total revenue generated from pizza sales.
-3.Identify the highest-priced pizza.
+2. Calculate the total revenue generated from pizza sales.
+3. Identify the highest-priced pizza.
 4. Identify the most common pizza size ordered.
 5. List the top 5 most ordered pizza types along with their quantities.
 6. Join the necessary tables to find the total quantity of each pizza category ordered.
