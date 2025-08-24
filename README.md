@@ -2,11 +2,11 @@ Objectives:
 The objective of this project is to perform an end-to-end analysis of pizza sales data (21k rows across 4 relational tables) to ensure data accuracy, integrity, and consistency through SQL-based cleaning and validation, and to derive key performance indicators (KPIs) that provide actionable business insights. The analysis aims to answer critical questions such as total revenue, order patterns, product mix performance, and time-based sales trends, while also identifying high-performing and underperforming pizzas. The ultimate goal is to transform raw sales data into a decision-support tool that helps optimize promotions, staffing schedules, and inventory planning.
 
 Dataset:
-- <ahttps://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizzas.csv> Pizzas
-- <ahttps://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizza_types.csv> Pizza_Types
-- <ahttps://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/orders.csv> Orders
-- <ahttps://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/order_details.csv> Orderdetails
-- <ahttps://docs.google.com/spreadsheets/d/1m5cTXE2Eiv_70_k4PXVUIKuuF_pWfhD9B9u84NWrF10/edit?gid=925059109#gid=925059109> Google Sheets Dashboard
+- <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizzas.csv"> Pizzas
+- <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizza_types.csv"> Pizza_Types
+- <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/orders.csv"> Orders
+- <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/order_details.csv"> Orderdetails
+- <a href="https://docs.google.com/spreadsheets/d/1m5cTXE2Eiv_70_k4PXVUIKuuF_pWfhD9B9u84NWrF10/edit?gid=925059109#gid=925059109"> Google Sheets Dashboard
 
 Questions(KPI):
 1. Retrieve the total number of orders placed.
